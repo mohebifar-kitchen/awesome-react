@@ -626,6 +626,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-maps - A map component for React](https://github.com/matnel/react-maps)
 * [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
 * [react-gmaps - A Google Maps component for React.js](https://github.com/MicheleBertoli/react-gmaps)
+* [google-map-react - Isomorphic google map react component, allows render react components on the google map](https://github.com/istarkov/google-map-react)
 
 ##### Charts
 * [react-d3 - Modular React charts made with d3.js](https://github.com/esbullington/react-d3)
